@@ -8,9 +8,9 @@ class Person {
     }
 
     get name(): string {
-        return this._name.toUpperCase();
+        return this._name;
     }
 }
 
 let person: Person = new Person("Charles");
-console.log(person.name)
+console.log(person.name);
