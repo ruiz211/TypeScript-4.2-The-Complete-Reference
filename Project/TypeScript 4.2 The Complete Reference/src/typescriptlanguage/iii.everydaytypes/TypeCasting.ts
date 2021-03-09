@@ -11,9 +11,9 @@ function printType(arr: Array<any>): void {
 
 let one: number = 1;
 let two: string = "two";
-let twoAndAHalf: null
+// let twoAndAHalf: null
 let three: boolean = false;
 
-let arr: Array<any> = [one, twoAndAHalf, three, two];
+let arr: Array<any> = [one, three, two];
 
 printType(arr);
