@@ -2,5 +2,18 @@
   "dependencies": {
     "node": "^15.10.0",
     "typescript": "^4.2.3"
-  }
+  },
+  "name": "typesrcipt4",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SyntaxError: Unexpected token ':'"
+  },
+  "author": "José Ruiz",
+  "license": "ISC",
+  "description": ""
 }
