@@ -1,5 +1,3 @@
-"use strict";
-
 function printType(arr: Array<any>): void {
     arr.forEach((value, index) => {
         if (typeof value == "number") console.log(`In position ${index} we have a ${typeof value}`)
